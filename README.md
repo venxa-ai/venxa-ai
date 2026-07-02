@@ -162,6 +162,55 @@ I help businesses accelerate digital transformation by building AI-powered enter
 
 ✔ Accelerate Digital Transformation
 
+------
+
+## 🏆 Why Work With Me?
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 🤖 AI
+
+Practical AI solutions focused on solving real business problems.
+
+</td>
+
+<td align="center" width="33%">
+
+### ⚙️ Automation
+
+Automating repetitive workflows to improve productivity.
+
+</td>
+
+<td align="center" width="33%">
+
+### 📈 Growth
+
+Building scalable enterprise software that supports business growth.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 💼 Professional Services
+
+- AI Business Transformation
+- Enterprise Software Development
+- CRM & ERP Solutions
+- AI Receptionists
+- AI Chatbots
+- Workflow Automation
+- Hospital Management Software
+- School ERP
+- Retail POS
+- Custom Web Applications
+
 ---
 ## 🌐 Connect With Me
 
