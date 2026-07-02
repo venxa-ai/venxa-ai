@@ -90,16 +90,25 @@ I help businesses accelerate digital transformation by building AI-powered enter
 
 ## 🛠️ Tech Stack
 
-- TypeScript
-- JavaScript
-- React
-- Next.js
-- Node.js
-- Firebase
-- Supabase
-- PostgreSQL
-- Tailwind CSS
-- Git & GitHub
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,tailwind,firebase,postgres,mysql,git,github,vscode" />
+
+</p>
+
+---
+
+## 💡 AI & Business Expertise
+
+- 🤖 Artificial Intelligence
+- 🧠 Prompt Engineering
+- ⚙️ Workflow Automation
+- 🏢 Enterprise Software
+- 📊 CRM & ERP Solutions
+- 🏥 Hospital Management Systems
+- 🎓 School ERP
+- 💬 AI Receptionists
+- 🌐 Custom Web Applications
 
 ---
 
