@@ -1,4 +1,8 @@
-# 👋 Hi, I'm Vivek Tyagi
+<p align="center">
+  <img src="ChatGPT%20Image%20Jul%208,%202026,%2007_48_22%20PM.png" alt="Venxa AI Banner" width="100%">
+</p>
+
+<br># 👋 Hi, I'm Vivek Tyagi
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&pause=1000&color=2563EB&center=true&vCenter=true&width=1000&lines=AI+Business+Transformation+Consultant;Founder+%7C+Venxa+AI+Software+Factory;Building+Intelligent+Software+for+Every+Business;AI+Automation+%7C+Enterprise+Software+%7C+Digital+Transformation" />
 </p>
